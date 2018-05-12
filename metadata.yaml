@@ -22,6 +22,8 @@ description: This 1841 novel describes life at a nineteenth-century English boar
   school. The hero, Hugh Proctor, comes to the school from a relatively privileged
   background and suffers there a disfiguring accident that will prove to be the defining
   challenge of his life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23265#The-Crofton-Boys
 gutenberg_issued: '2007-10-31'
 gutenberg_type: Text
 identifiers:
